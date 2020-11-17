@@ -1,0 +1,17 @@
+C:\Users\ducki\source\repos\dnevnik\bin\Debug\dnevnik.exe.config
+C:\Users\ducki\source\repos\dnevnik\bin\Debug\dnevnik.exe
+C:\Users\ducki\source\repos\dnevnik\bin\Debug\dnevnik.pdb
+C:\Users\ducki\source\repos\dnevnik\obj\Debug\dnevnik.csprojAssemblyReference.cache
+C:\Users\ducki\source\repos\dnevnik\obj\Debug\MainWindow.g.cs
+C:\Users\ducki\source\repos\dnevnik\obj\Debug\App.g.cs
+C:\Users\ducki\source\repos\dnevnik\obj\Debug\dnevnik_MarkupCompile.cache
+C:\Users\ducki\source\repos\dnevnik\obj\Debug\dnevnik_MarkupCompile.lref
+C:\Users\ducki\source\repos\dnevnik\obj\Debug\MainWindow.baml
+C:\Users\ducki\source\repos\dnevnik\obj\Debug\dnevnik.g.resources
+C:\Users\ducki\source\repos\dnevnik\obj\Debug\dnevnik.Properties.Resources.resources
+C:\Users\ducki\source\repos\dnevnik\obj\Debug\dnevnik.csproj.GenerateResource.cache
+C:\Users\ducki\source\repos\dnevnik\obj\Debug\dnevnik.csproj.CoreCompileInputs.cache
+C:\Users\ducki\source\repos\dnevnik\obj\Debug\dnevnik.exe
+C:\Users\ducki\source\repos\dnevnik\obj\Debug\dnevnik.pdb
+C:\Users\ducki\source\repos\dnevnik\obj\Debug\Edit_Window.g.cs
+C:\Users\ducki\source\repos\dnevnik\obj\Debug\Edit_Window.baml
