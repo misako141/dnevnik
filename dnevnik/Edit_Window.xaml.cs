@@ -62,9 +62,9 @@ namespace dnevnik
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            string date = dateBOX.Text;
+            string date = datezadaniyaBOX.Text;
             string tema = temaBOX.Text;
-            string ocenka = osenkaBOX.Text;
+            string ocenka = ocenkaBOX.Text;
             
             string ssql = $"UPDATE work_table SET tema = '{tema}', ocenka = '{ocenka}' WHERE datezadaniya = '{date}'"; //Запрос
             string connectionString = @"Data Source=.\SQLEXPRESS;Initial Catalog=dnevnik;Integrated Security=True";
